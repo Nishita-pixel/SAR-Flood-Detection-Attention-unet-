@@ -1,4 +1,4 @@
-# 🌊 Flood Detection using SAR Images with Attention U-Net
+#  Flood Detection using SAR Images with Attention U-Net
 
 A deep learning project for automatic flood detection from **Synthetic Aperture Radar (SAR)** imagery using an **Attention U-Net** architecture with a **ResNet34 encoder**.
 
@@ -8,7 +8,7 @@ This project was developed during my internship at the **Maharashtra Remote Sens
 
 ---
 
-# 📌 Project Overview
+#  Project Overview
 
 Floods are among the most devastating natural disasters, requiring timely and accurate detection for effective disaster response.
 
@@ -18,7 +18,7 @@ This project leverages deep learning to automatically identify flooded regions f
 
 ---
 
-# 🚀 Features
+#  Features
 
 - Flood segmentation using SAR images
 - Attention U-Net architecture
@@ -33,7 +33,7 @@ This project leverages deep learning to automatically identify flooded regions f
 
 ---
 
-# 🛠️ Technologies Used
+#  Technologies Used
 
 - Python
 - PyTorch
@@ -48,7 +48,7 @@ This project leverages deep learning to automatically identify flooded regions f
 
 ---
 
-# 🏗 Model Architecture
+# Model Architecture
 
 ```
 SAR Image
@@ -84,7 +84,7 @@ Grad-CAM Visualization
 
 ---
 
-# 📊 Evaluation Metrics
+#  Evaluation Metrics
 
 The model is evaluated using:
 
@@ -95,7 +95,7 @@ The model is evaluated using:
 
 ---
 
-# 📂 Project Structure
+#  Project Structure
 
 ```
 SAR-Flood-Detection/
